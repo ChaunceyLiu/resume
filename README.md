@@ -111,9 +111,6 @@
  ## <img src="assets/info-circle-solid.svg" width="30px"> 其他信息
 
 - Base杭州(暂不考虑其他城市) ,只考虑西湖区和余杭区的岗位。  
-- 只考虑Alibaba、ByteDance、Tencent相关公司的面试邀请。
-- 寻找工作机会原因：定居在紫金港附近，想上班离家近点。
-- 之前阿里面试都因跳槽频率，HR面没过，希望能有不介意的团队联系
 
 [简历PDF下载](https://github.com/ChaunceyLiu/resume/blob/master/刘宸熙-web前端.pdf)
 
